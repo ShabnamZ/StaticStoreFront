@@ -1,0 +1,2 @@
+# SubstanceOfStyle
+Static storefront
